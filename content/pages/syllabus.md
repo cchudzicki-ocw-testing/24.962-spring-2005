@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on prerequisites, course requirements,
+  course description, brief historical overview, correspondence and OT, and questions
+  addressed.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
